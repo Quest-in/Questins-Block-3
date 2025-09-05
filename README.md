@@ -7,10 +7,7 @@ Dependencies:
 - B9 Part Switch
 - ModuleManager
 - Shabby/Resurfaced
-	
-HIGHLY RECOMMENDED but not required:
-- Vessel Mover
-- Hanger Extender
+- Community Resource Pack
 
 Recommended mods but not required:
 - Starship Launch Expansion (SLE)
