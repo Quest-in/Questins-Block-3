@@ -8,6 +8,8 @@ Dependencies:
 - ModuleManager
 - Shabby/Resurfaced
 - Community Resource Pack
+- Community Part Fixes
+- Community Part Modules
 - Waterfall
 
 Recommended mods but not required:
