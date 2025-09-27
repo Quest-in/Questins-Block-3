@@ -8,6 +8,7 @@ Dependencies:
 - ModuleManager
 - Shabby/Resurfaced
 - Community Resource Pack
+- Waterfall
 
 Recommended mods but not required:
 - Starship Launch Expansion (SLE)
