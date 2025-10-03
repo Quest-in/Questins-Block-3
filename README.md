@@ -31,5 +31,8 @@ V0.6 - Block 3 Fixes, plus early Raptor 3s. (Thank you Andrew for the Plumes!!!)
 
 'Questin's Block 3 © 2025 by `Questin (1questin) 
 
-Models/.Mu/.PNGs are licensed under All Rights Reserved (ARR)
+Models/.Mu/.PNGs are licensed under All Rights Reserved (ARR) [To their respective Owners]
+Booster - Questin
+Raptor - Domino Playz
+Ship (Eventually) - Vista and Questin
 Configs are licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
