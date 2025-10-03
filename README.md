@@ -27,6 +27,7 @@ V0.5 - Block 3 Model Overhaul, Bunch of Extra Stuff
 V0.6 - Block 3 Fixes, plus early Raptor 3s. (Thank you Andrew for the Plumes!!!)
 
 [DM on discord for any questions!]
+[Also join the Discord for more! https://discord.gg/JfuYbWAxxB]
 
 'Questin's Block 3 © 2025 by `Questin (1questin) 
 
